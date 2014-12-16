@@ -1,7 +1,6 @@
 {
     "name": "basekit-wireframe",
     "thumbnail": "thumbnail.png",
-    "widgetVersion":2,
     "images":[
         "images/feature-bg.jpg",
         "images/960-placeholder.jpg",
